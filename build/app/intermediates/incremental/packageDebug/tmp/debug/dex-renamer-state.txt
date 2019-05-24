@@ -1,0 +1,4 @@
+#Fri May 24 23:42:00 NZST 2019
+base.0=C\:\\Users\\Janick\\AndroidStudioProjects\\mi_card_flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
